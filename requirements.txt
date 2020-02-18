@@ -1,0 +1,7 @@
+celery
+djangorestframework
+#git+https://github.com/mukulhase/WebWhatsapp-Wrapper.git
+django
+numpy
+redis
+django-cors-headers
